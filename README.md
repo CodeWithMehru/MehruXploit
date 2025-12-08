@@ -302,5 +302,4 @@ pkg install nmap
 
 ---
 
-**Copyright © 2025  
-Code With Mehru**
+**Copyright © 2025 Code With Mehru**
