@@ -22,7 +22,7 @@
     original developer, [Code With Mehru (github.com/CodeWithMehru)], and copying the code
     is not permitted without permission.
 
-    For any queries, Contact me at : codewithmehru@protonmail.com
+    For any queries, Contact me at : codewithmehru@proton.me
 """
 
 RED = "\033[91m"
